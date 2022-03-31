@@ -13,10 +13,10 @@ Data was analyzed thoroughly and some abnormalities were found out which needed 
 
 3) Exploratory Data Analysis
 Important Business questions were asked during this phase of the data analysis. The questions answered were:
-1) What was the best month for sales? How much was earned that month?
-2) In which City was most of the product delivered?
-3) What time should the business advertise the product to maximize the likelihood of buying?
-4) What products are most often sold together?
-5) Which is the top-selling product?
+-What was the best month for sales? How much was earned that month?
+-In which City was most of the product delivered?
+-What time should the business advertise the product to maximize the likelihood of buying?
+-What products are most often sold together?
+-Which is the top-selling product?
 
 This Data Analysis Project gives keen insights into all the above questions and is very helpful for businesses to make changes in their listings. 
